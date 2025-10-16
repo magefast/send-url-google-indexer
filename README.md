@@ -15,6 +15,7 @@ Make API request to Google Index API with List of URLs.
    - `composer install` - will download the Libs that need for Google SDK
 3) Prepare list of URLs
    - Add URL to file `urls.txt`
+4) Update the file `service_account_file.json` with Access to Google API
 
 ### Run Indexer
 - Run in CLI `php indexer.php`
